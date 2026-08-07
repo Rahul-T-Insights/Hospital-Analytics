@@ -1,0 +1,9 @@
+insurance_id,provider_name,plan_type
+1,BlueShield Health,PPO
+2,UnitedCare Group,HMO
+3,Aetna Direct,PPO
+4,Cigna Corp,EPO
+5,Medicare Federal,Medicare
+6,Medicaid State Plan,Medicaid
+7,Global Assurance,PPO
+8,Self-Pay / Uninsured,Self-Pay
