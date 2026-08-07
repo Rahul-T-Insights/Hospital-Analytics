@@ -1,0 +1,13 @@
+department_id,department_name,floor,department_budget,head_doctor_id
+1,Cardiology,7,2566620.01,15
+2,Neurology,4,2001688.75,126
+3,Orthopedics,5,1142900.68,118
+4,Oncology,7,3428998.13,38
+5,Pediatrics,3,753852.11,156
+6,General Surgery,5,3748994.48,29
+7,Emergency Medicine,5,4723487.19,47
+8,Internal Medicine,7,503504.45,124
+9,Obstetrics & Gynecology,2,4964952.02,142
+10,Radiology,3,3278666.79,74
+11,Psychiatry,7,3252439.22,158
+12,Dermatology,3,531798.37,10
