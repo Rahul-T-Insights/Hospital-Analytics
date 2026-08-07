@@ -37,7 +37,7 @@ This project demonstrates the complete BI lifecycle—from data engineering to b
              SQL Analytical Views
                         │
                         ▼
-          Power BI Interactive Reports
+          Power BI
              ├── Operational Dashboard
              └── Executive Dashboard
 ```
