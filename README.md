@@ -52,7 +52,6 @@ This project demonstrates the complete BI lifecycle—from data engineering to b
 | PostgreSQL | Data Warehouse |
 | SQL | Data Modeling & Business Logic |
 | Power BI | Dashboard & Visualization |
-| Git & GitHub | Version Control |
 
 ---
 
